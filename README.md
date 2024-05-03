@@ -1,33 +1,34 @@
-# 👋 Hello developer!
-This is one of the many templates available from W3schools. Check our [tutorials for frontend development](https://www.w3schools.com/where_to_start.asp) to learn the basics of [HTML](https://www.w3schools.com/html/default.asp) and [CSS](https://www.w3schools.com/css/default.asp). 🦄
 
 
-## 🏗 What's next?
-Customize this template to make it your own. Remember to make your layout responsive - if you want your site to look good on smaller screens like mobile. 
+# Page 404
 
-## 🎨 Where to find everything
+![Logo Thunderbird](thunderbird.png)
 
-- **External style sheet:** The template you chose is built with [W3CSS](https://www.w3schools.com/w3css/default.asp), placed in an external style sheet. You can either replace that style sheet - or keep it simple and leave it in.  
-	[Go to tutorial about W3CSS](https://www.w3schools.com/w3css/default.asp)
+Une page d'erreur 404 simple et amusante avec une image de fond de Godzilla.
 
-- **Fonts:** Explore the options from **Google fonts** and add your favorite.  
-	[Go to tutorial about fonts](https://www.w3schools.com/w3css/w3css_fonts_google.asp)
+## Technologies utilisées
 
-- **Icons:** Icons are from **Fontawesome**. You can reuse those and choose other free icons from their free library.  
-	[Go to tutorial about Fontawesome](https://www.w3schools.com/icons/fontawesome5_intro.asp)
+- HTML
+- CSS (W3.CSS framework)
+- JavaScript (non inclus dans cet exemple)
 
-- **Images:** Replace the images by uploading your own and updating their URLs.  
-	[Go to article about how to upload files](https://support.w3schools.com/hc/en-gb/articles/4410414928017)
+## Aperçu
 
-> ⚡️ **Tip:** [Set up Google Analytics](https://www.w3schools.com/howto/howto_google_analytics.asp) to get valuable insights about your space and visitors. 
+![Aperçu de la page 404](preview.png)
 
+## Fonctionnalités
 
-### ⛑ Need support?
-[Join our Discord community](https://discord.gg/6Z7UaRbUQM) and ask questions in the **#spaces-general** channel.
+- Affichage d'une image de fond avec un message d'erreur 404.
+- Animation d'opacité pour le contenu.
+- Utilisation du framework W3.CSS pour les styles.
 
+## Comment utiliser
 
-### 🚀 Upgrade to Pro
-[Upgrade your account](https://billing.w3schools.com/products/spaces) to boost your space and take your projects to the next level; more requests, more storage and more power for up to 10 spaces.
+1. Téléchargez les fichiers HTML et CSS.
+2. Placez-les dans votre projet.
+3. Ouvrez le fichier HTML dans un navigateur web.
 
+## Crédits
 
-Happy learning!
+- Fonds d'écran fourni par [Lorem Picsum](https://picsum.photos/).
+- Framework CSS par [W3Schools](https://www.w3schools.com/w3css/).
